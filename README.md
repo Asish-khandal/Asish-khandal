@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asish-khandal&show_icons=true&locale=en&layout=compact" alt="asish-khandal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asish-khandal&show_icons=true&locale=en" alt="asish-khandal" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asish-khandal&" alt="asish-khandal" /></p>
